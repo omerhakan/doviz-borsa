@@ -39,7 +39,7 @@ Her bölüm aşağıdaki şekilde isim ve ayıraçla başlar
 ### Yeni Kur - Hisse Eklemek
 
  1. Kur veya hisse alanını kopyalayın
- 2. Kur veya hissenin adını ve gerekli linklerini düzeltin (gerekli bilgi ve linkler [Doviz.com API](https://github.com/prosman/dovizcom-api) adresinde bulunuyor)
+ 2. Kur veya hissenin adını ve gerekli linklerini düzeltin (gerekli bilgi ve linkler eklenecek)
  3. Satır numarasını güncelleyin. `Y=(#TopPadding#+(#RowHeight#*4))` alanındaki `4` satır numarasını gösterir.
  
   > Eğer daha fazla sayıda Kur - Hisse ekleyecekseniz dosyanın `[Variables]` alanındaki `BackgroundHeight=160` değişkeni artırın.
